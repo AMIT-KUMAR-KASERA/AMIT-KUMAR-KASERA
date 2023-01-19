@@ -1,4 +1,4 @@
-![logo](https://github.com/AMIT-KUMAR-KASERA/AMIT-KUMAR-KASERA/blob/main/Professional-Web-Banner-AD-in-Photoshop-scaled.jpg)
+![logo](https://www.obiyaninfotech.com/wp-content/uploads/2022/06/Website-Development.jpg)
 ### Hi there 👋
 
 <!--
@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://www.obiyaninfotech.com/wp-content/uploads/2022/06/Website-Development.jpg"> </p>
+<p align="left"> <img src="![image](https://user-images.githubusercontent.com/106943697/213458920-1cbf7432-68c5-4e03-bdad-5ed54fbab68b.png)
+"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
