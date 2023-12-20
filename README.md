@@ -1,3 +1,5 @@
+<img align ="center" alt="coding" width="1000" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
+<br>
 <h1 align="center">Hi 👋, I'm AMIT-KUMAR-KASERA</h1>
 <h3 align="center">A passionate full stack web developments from India</h3>
 <img align ="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
